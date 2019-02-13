@@ -6,3 +6,10 @@ So what I learned from this project was the usage of putting images in the foreg
 
 In addition, this was another great opportunity to practice my usage of flexbox and grids. Particularly as you see the image of the original design how it looks like the main content in the foreground extends pass the bottom of the site, so I decided to just be a bit creative and add information about the location that was being advertised. That was also the idea for deciding on making the background image fixed.
 
+Original:
+
+![original_image](images/hiking_website.png)
+
+My attempt:
+
+![my_site](images/website.gif)
