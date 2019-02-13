@@ -1,4 +1,4 @@
-Hiking Site
+#Hiking Site
 
 This is really an attempt to get a similar design that I found off [collectui.com](http://collectui.com/). This looks like a travel site and what really caught my attention was the usage of the blurry image in the back and the same image in the foreground. 
 
